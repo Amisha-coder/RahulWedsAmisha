@@ -2111,7 +2111,7 @@ couple-area end
 =============================*/
 
 .count-down-area {
-    background: url(../images/counter.JPG) no-repeat center center / cover;
+    background: url(../images/counter.jpg) no-repeat center center / cover;
     background-attachment: fixed;
     position: relative;
 }
